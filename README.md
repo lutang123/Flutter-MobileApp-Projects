@@ -3,7 +3,7 @@ This repository includes all of my Flutter App Projects
 
 ## Flutter App 1: 
 
-<a href="https://github.com/lutang123/business_card_flutter">Business Card</a>
+Project link: <a href="https://github.com/lutang123/business_card_flutter">Business Card</a>
 
-<img src="BusinessCard_iOS.png" size ="150"> 
+<img src="BusinessCard_iOS.png" size="150"> 
 
