@@ -56,7 +56,7 @@ Final Result image, random number with random color on tap:
 
 ## Flutter App 10: <a href="https://github.com/lutang123/Flash-chat">Flash Chat</a>
 
-<img src="flashchat" width="120">
+<img src="flashchat.png" width="120">
 
 ## Flutter App 11: <a href="https://github.com/lutang123/todoey">Todoey</a>
 
