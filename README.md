@@ -12,7 +12,7 @@ Project link: <a href="https://github.com/lutang123/business_card_flutter">Busin
 
 Project link: <a href="https://github.com/lutang123/dicee-game-flutter">Dicee Game</a>
 
-## Final Result image, random number with random color on tap:
+Final Result image, random number with random color on tap:
 
 <p>
   <img src="screenshot1.png" width="120" />
