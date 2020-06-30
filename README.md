@@ -7,7 +7,7 @@ I learnt to make most of the apps in this repository from London App Brewery, an
 
 For more unique and more complexed Apps, please see my other repositories. 
 
-## Flutter App 1: project link: <a href="https://github.com/lutang123/business_card_flutter">Business Card</a>
+## Flutter App 1: (project link) <a href="https://github.com/lutang123/business_card_flutter">Business Card</a>
 
 <img src="BusinessCard_iOS.png" width="120"> 
 
