@@ -1,4 +1,4 @@
-# Flutter-App-Projects
+# Flutter-App-Projects (for code, please check each project link)
 This repository includes all of my sample Flutter App projects as the Step 1 to show my learning jouney. 
 
 All the apps are beautifully made and fully functional. Each app is in a separate project(repository), with click to the specific project link. The order of the list is based on comlexity level, first one as a starter project and the last one as more complicated one, however each project covers different topic and skills on developing Flutter App. (Please note for some apps I removed API keys, you need to add your own key to run the app successfully).
