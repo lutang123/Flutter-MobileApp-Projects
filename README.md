@@ -68,12 +68,12 @@ Final Result image, random number with random color on tap:
 ## Flutter App 12: <a href="https://github.com/lutang123/Timer-Tracker-Flutter">Todoey</a>
 
 <p float="left">
-  <img src="timetracker1.png" width="120" />
-  <img src="timetracker2.png" width="120" /> 
-  <img src="timetracker3.png" width="120" />
-  <img src="timetracker4.png" width="120" />
-  <img src="timetracker5.png" width="120" />
-  <img src="timetracker6.png" width="120" />
+  <img src="timetracker1.png" width="130" />
+  <img src="timetracker2.png" width="130" /> 
+  <img src="timetracker3.png" width="130" />
+  <img src="timetracker4.png" width="130" />
+  <img src="timetracker5.png" width="130" />
+  <img src="timetracker6.png" width="130" />
 </p>
 
 
