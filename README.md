@@ -7,3 +7,8 @@ Project link: <a href="https://github.com/lutang123/business_card_flutter">Busin
 
 <img src="BusinessCard_iOS.png" width="150"> 
 
+## Flutter App 2:
+
+Project link: <a href="https://github.com/lutang123/dicee-game-flutter">Dicee Game</a>
+
+https://github.com/lutang123/dicee-game-flutter
