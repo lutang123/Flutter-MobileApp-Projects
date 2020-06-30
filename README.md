@@ -15,3 +15,36 @@ Final Result image, random number with random color on tap:
   <img src="screenshot4.png" width="120" />
   <img src="screenshot5.png" width="120" />
 </p>
+
+## Flutter App 3: <a href="https://github.com/lutang123/magic-8-ball-flutter-v2">Magic Ball</a>
+
+<img src="magic_ball.png" width="120"> 
+
+## Flutter App 4: <a href="https://github.com/lutang123/xylophone-flutter">Xylophone</a>
+
+<img src="xylophone.png" width="120">
+
+## Flutter App 5: <a href="https://github.com/lutang123/quizzler-flutter">Quizzer</a>
+
+<img src="quizzer.png" width="120">
+
+## Flutter App 6: <a href="https://github.com/lutang123/destini-flutter">Destini</a>
+
+<img src="destini.png" width="120">
+
+## Flutter App 7: <a href="https://github.com/lutang123/bmi-calculator-flutter">BMI Calculator</a>
+
+<p float="left">
+  <img src="BMI1.png.png" width="120" />
+  <img src="BMI2.png.png" width="120" /> 
+</p>
+
+## Flutter App 8: <a href="https://github.com/lutang123/bmi-calculator-flutter">BMI Calculator</a>
+
+<p float="left">
+  <img src="BMI1.png.png" width="120" />
+  <img src="BMI2.png.png" width="120" /> 
+</p>
+
+
+
