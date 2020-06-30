@@ -1,7 +1,11 @@
 # Flutter-App-Projects (for code, please click on each project link)
 This repository includes all of my sample Flutter App projects as the Step 1 to show my learning jouney. 
 
-All the apps are beautifully made and fully functional. Each app is in a separate project(repository), with click to the specific project link. The order of the list is based on comlexity level, first one as a starter project and the last one as more complicated one, however each project covers different topic and skills on developing Flutter App. The first 11 projects are made through learning from London App Brewery, and other projects are made after learning various other courses. (Please note for some apps I removed API keys, you need to add your own key to run the app successfully).
+All the apps are beautifully made and fully functional. Each app is in a separate project(repository), with click to the specific project link. 
+
+The order of the list is based on comlexity level, first one as a starter project and the last one as more complicated one; each project covers different topic and skills on developing Flutter App. The first 11 projects are made through learning from London App Brewery, those are more basic apps, and then I moved to more advanced level and made more projects after learning various other courses. 
+
+All the code includes my own notes, also for some apps I removed API keys, you need to add your own key to run the app successfully.
 
 For more unique and more complexed Apps, please see my other repositories. 
 
@@ -65,7 +69,7 @@ Final Result image, random number with random color on tap:
   <img src="todoey2.png" width="120" /> 
 </p>
 
-## Flutter App 12: <a href="https://github.com/lutang123/Timer-Tracker-Flutter">Todoey</a>
+## Flutter App 12: <a href="https://github.com/lutang123/Timer-Tracker-Flutter">Time Tracker</a>
 
 <p float="left">
   <img src="timetracker1.png" width="130" />
@@ -74,6 +78,13 @@ Final Result image, random number with random color on tap:
   <img src="timetracker4.png" width="130" />
   <img src="timetracker5.png" width="130" />
   <img src="timetracker6.png" width="130" />
+</p>
+
+## Flutter App 13: <a href="https://github.com/lutang123/Covid19-app">Covid19 App</a>
+
+<p float="right">
+  <img src="covid1.png" width="130" />
+  <img src="covid2.png" width="130" /> 
 </p>
 
 
