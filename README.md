@@ -38,10 +38,9 @@ Final Result image, random number with random color on tap:
 
 ## Flutter App 7: <a href="https://github.com/lutang123/bmi-calculator-flutter">BMI Calculator</a>
 
-<p float="left">
-  <img src="BMI1.png.png" width="120" />
-  <img src="BMI2.png.png" width="120" /> 
-</p>
+<img src="BMI1.png" width="120">
+
+<img src="BMI2.png" width="120">
 
 
 
