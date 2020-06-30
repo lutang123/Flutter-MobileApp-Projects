@@ -26,7 +26,7 @@ Final Result image, random number with random color on tap:
 
 ## Flutter App 5: <a href="https://github.com/lutang123/quizzler-flutter">Quizzer</a>
 
-<img src="quizzer.png" width="120">
+<img src="quizzler.png" width="120">
 
 ## Flutter App 6: <a href="https://github.com/lutang123/destini-flutter">Destini</a>
 
