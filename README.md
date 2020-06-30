@@ -3,15 +3,15 @@ This repository includes all of my sample Flutter App projects. Each project is 
 
 ## Flutter App 1: <a href="https://github.com/lutang123/business_card_flutter">Business Card</a>
 
-<img src="BusinessCard_iOS.png" width="150"> 
+<img src="BusinessCard_iOS.png" width="120"> 
 
 ## Flutter App 2: <a href="https://github.com/lutang123/dicee-game-flutter">Dicee Game</a>
 
 Final Result image, random number with random color on tap:
-
-  <img src="screenshot1.png" width="120" />
-  <img src="screenshot2.png" width="120" /> 
-  <img src="screenshot3.png" width="120" />
-  <img src="screenshot4.png" width="120" />
-  <img src="screenshot5.png" width="120" />
-
+<p>
+  <img src="screenshot1.png" width="120">
+  <img src="screenshot2.png" width="120"> 
+  <img src="screenshot3.png" width="120">
+  <img src="screenshot4.png" width="120">
+  <img src="screenshot5.png" width="120">
+<p/>
