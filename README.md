@@ -3,7 +3,9 @@ This repository includes all of my sample Flutter App projects as a way to show 
 
 All the apps are beautifully made and fully functional. Each app is in a separate project(repository), with click to the specific project link. The order of the list is based on comlexity level, first one as a starter project and the last one as more complicated one, however each project covers different topic and skills on developing Flutter App. (Please note for some apps I removed API keys, you need to add your own key to run the app successfully).
 
-I learnt to make most of the apps in this repository from London App Brewery. For more unique and more complexed Apps, please see my other repositories. 
+I learnt to make most of the apps in this repository from London App Brewery, and all the code in each project includes my own learning notes.
+
+For more unique and more complexed Apps, please see my other repositories. 
 
 ## Flutter App 1: <a href="https://github.com/lutang123/business_card_flutter">Business Card</a>
 
