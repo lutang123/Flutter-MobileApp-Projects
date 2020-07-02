@@ -25,18 +25,22 @@ On tap to change dicee number as well as background color.
 
 ## Flutter App 3: <a href="https://github.com/lutang123/magic-8-ball-flutter-v2">Magic Ball</a>
 Can't make decisions? tap to ask me for anything.
+
 <img src="/first_11_projects_screenshots/magic_ball.png" width="120"> 
 
 ## Flutter App 4: <a href="https://github.com/lutang123/xylophone-flutter">Xylophone</a>
 Each row plays a different sound on tap, perfect for kids to play.
+
 <img src="/first_11_projects_screenshots/xylophone.png" width="120">
 
 ## Flutter App 5: <a href="https://github.com/lutang123/quizzler-flutter">Quizzler</a>
 A quiz app.
+
 <img src="/first_11_projects_screenshots/quizzler.png" width="120">
 
 ## Flutter App 6: <a href="https://github.com/lutang123/destini-flutter">Destini</a>
 Story game.
+
 <img src="/first_11_projects_screenshots/destini.png" width="120">
 
 ## Flutter App 7: <a href="https://github.com/lutang123/bmi-calculator-flutter">BMI Calculator</a>
