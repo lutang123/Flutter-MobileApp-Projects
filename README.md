@@ -62,7 +62,7 @@ Story game.
 
 ## Flutter App 10: <a href="https://github.com/lutang123/Flash-chat">Flash Chat</a>
 
-<img src="/first_11_projects_screenshots/flashchat.png" width="120">
+<img src="/first_11_projects_screenshots/flashchat.png" width="200">
 
 ## Flutter App 11: <a href="https://github.com/lutang123/todoey">Todoey</a>
 
