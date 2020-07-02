@@ -68,7 +68,7 @@ Story game.
 
 <p float="right">
   <img src="/first_11_projects_screenshots/todoey1.png" width="120" />
-  <img src="todoey2.png" width="120" /> 
+  <img src="/first_11_projects_screenshots/todoey2.png" width="120" /> 
 </p>
 
 ## Flutter App 12: <a href="https://github.com/lutang123/todo-list-app-with-SQLite">TodoList Appp with SQLite</a>
