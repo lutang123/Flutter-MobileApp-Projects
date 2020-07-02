@@ -10,7 +10,7 @@ All the code includes my own notes, also for some apps I removed API keys, you n
 
 ## Flutter App 1: (project link) <a href="https://github.com/lutang123/business_card_flutter">Business Card</a>
 
-<img src="BusinessCard_iOS.png" width="120"> 
+<img src="/first_11_projects_screenshots/BusinessCard_iOS.png" width="120"> 
 
 ## Flutter App 2: <a href="https://github.com/lutang123/dicee-game-flutter">Dicee Game</a>
 
