@@ -1,6 +1,6 @@
 # Flutter-App-Projects (for code, please click on each project link)
 
-This repository includes most of my sample Flutter App projects as a way to show my learning jouney. 
+This repository includes most of my sample Flutter App projects. 
 
 All the apps are beautifully made and fully functional. Each app is in a separate project(repository), with click to the specific project link. 
 
