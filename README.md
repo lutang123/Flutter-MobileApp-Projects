@@ -16,64 +16,64 @@ All the code includes my own notes, also for some apps I removed API keys, you n
 
 Final Result image, random number with random color on tap:
 <p float="left">
-  <img src="screenshot1.png" width="120" />
-  <img src="screenshot2.png" width="120" /> 
-  <img src="screenshot3.png" width="120" />
-  <img src="screenshot4.png" width="120" />
-  <img src="screenshot5.png" width="120" />
+  <img src="/first_11_projects_screenshots/screenshot1.png" width="120" />
+  <img src="/first_11_projects_screenshots/screenshot2.png" width="120" /> 
+  <img src="/first_11_projects_screenshots/screenshot3.png" width="120" />
+  <img src="/first_11_projects_screenshots/screenshot4.png" width="120" />
+  <img src="/first_11_projects_screenshots/screenshot5.png" width="120" />
 </p>
 
 ## Flutter App 3: <a href="https://github.com/lutang123/magic-8-ball-flutter-v2">Magic Ball</a>
 
-<img src="magic_ball.png" width="120"> 
+<img src="/first_11_projects_screenshots/magic_ball.png" width="120"> 
 
 ## Flutter App 4: <a href="https://github.com/lutang123/xylophone-flutter">Xylophone</a>
 
-<img src="xylophone.png" width="120">
+<img src="/first_11_projects_screenshots/xylophone.png" width="120">
 
 ## Flutter App 5: <a href="https://github.com/lutang123/quizzler-flutter">Quizzler</a>
 
-<img src="quizzler.png" width="120">
+<img src="/first_11_projects_screenshots/quizzler.png" width="120">
 
 ## Flutter App 6: <a href="https://github.com/lutang123/destini-flutter">Destini</a>
 
-<img src="destini.png" width="120">
+<img src="/first_11_projects_screenshots/destini.png" width="120">
 
 ## Flutter App 7: <a href="https://github.com/lutang123/bmi-calculator-flutter">BMI Calculator</a>
 
 <p float="right">
-  <img src="BMI1.png" width="120" />
-  <img src="BMI2.png" width="120" /> 
+  <img src="/first_11_projects_screenshots/BMI1.png" width="120" />
+  <img src="/first_11_projects_screenshots/BMI2.png" width="120" /> 
 </p>
 
 ## Flutter App 8: <a href="https://github.com/lutang123/clima-flutter">Clima</a>
 
 <p float="right">
-  <img src="weather1.png" width="120" />
-  <img src="weather2.png" width="120" /> 
+  <img src="/first_11_projects_screenshots/weather1.png" width="120" />
+  <img src="/first_11_projects_screenshots/weather2.png" width="120" /> 
 </p>
 
 ## Flutter App 9: <a href="https://github.com/lutang123/coin-tracker">Bitcoin Tracker</a>
 
-<img src="bitcoin.png" width="120">
+<img src="/first_11_projects_screenshots/bitcoin.png" width="120">
 
 ## Flutter App 10: <a href="https://github.com/lutang123/Flash-chat">Flash Chat</a>
 
-<img src="flashchat.png" width="120">
+<img src="/first_11_projects_screenshots/flashchat.png" width="120">
 
 ## Flutter App 11: <a href="https://github.com/lutang123/todoey">Todoey</a>
 
 <p float="right">
-  <img src="todoey1.png" width="120" />
+  <img src="/first_11_projects_screenshots/todoey1.png" width="120" />
   <img src="todoey2.png" width="120" /> 
 </p>
 
 ## Flutter App 12: <a href="https://github.com/lutang123/todo-list-app-with-SQLite">TodoList Appp with SQLite</a>
 
 <p float="right">
-  <img src="todo1.png" width="120" />
-  <img src="todo2.png" width="120" /> 
-  <img src="todo3.png" width="120" /> 
+  <img src="/Todo_sqlite_screenshots/todo1.png" width="120" />
+  <img src="/Todo_sqlite_screenshots/todo2.png" width="120" /> 
+  <img src="/Todo_sqlite_screenshots/todo3.png" width="120" /> 
 </p>
 
 
@@ -81,7 +81,7 @@ Final Result image, random number with random color on tap:
 
 <p float="right">
   <img src="top-news.png" width="130" />
-  <img src="search-result.png" width="130" /> 
+  <img src="top-news2.png" width="130" /> 
 </p>
 
 ## Flutter App 14: <a href="https://github.com/lutang123/City-Care">City Care</a>
@@ -103,25 +103,25 @@ A flutter app that can take or select pictures and send accident report.
 ## Flutter App 16: <a href="https://github.com/lutang123/Timer-Tracker-Flutter">Time Tracker</a>
 
 <p float="left">
-  <img src="timetracker1.png" width="120" />
-  <img src="timetracker2.png" width="120" /> 
-  <img src="timetracker3.png" width="120" />
-  <img src="timetracker4.png" width="120" />
-  <img src="timetracker5.png" width="120" />
-  <img src="timetracker6.png" width="120" />
+  <img src="/TimeTracker/timetracker1.png" width="120" />
+  <img src="/TimeTracker/timetracker2.png" width="120" /> 
+  <img src="/TimeTracker/timetracker3.png" width="120" />
+  <img src="/TimeTracker/timetracker4.png" width="120" />
+  <img src="/TimeTracker/timetracker5.png" width="120" />
+  <img src="/TimeTracker/timetracker6.png" width="120" />
 </p>
 
 ## Flutter App 17: <a href="https://github.com/lutang123/iMomentum">iMomentum</a>
 A beautiful Flutter App with Calendar, Task list, Pomodoro Timer and Notes, all in one! The App is designed to provide inspiration, positivity and to help boost productivity and eliminate distraction with daily focus report, changing background picture, daily quote, mantra and customizable displays.
 
 <p float="left">
-  <img src="1.png" width="120" />
-  <img src="2.png" width="120" /> 
-  <img src="3.png" width="120" />
-  <img src="4.png" width="120" />
-  <img src="todo.png" width="120" />
-  <img src="piechart.png" width="120" />
-  <img src="notes.png" width="120" />
+  <img src="/iMomentum/1.png" width="120" />
+  <img src="/iMomentum/2.png" width="120" /> 
+  <img src="/iMomentum/3.png" width="120" />
+  <img src="/iMomentum/4.png" width="120" />
+  <img src="/iMomentum/todo.png" width="120" />
+  <img src="/iMomentum/piechart.png" width="120" />
+  <img src="/iMomentum/notes.png" width="120" />
 </p>
 
 
