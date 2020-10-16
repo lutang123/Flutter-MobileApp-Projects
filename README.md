@@ -6,9 +6,11 @@ All the apps are beautifully made and fully functional. Each app is in a separat
 
 All the code includes my own notes, also for some apps I removed API keys, you need to add your own key to run the app successfully.
 
-## Flutter App (ready for production): <a href="https://github.com/lutang123/iMomentum">iMomentum</a>
+## Flutter App (ready for release): <a href="https://github.com/lutang123/iMomentum">iMomentum</a>
 
 This is my most recent project. iMomentum is a beautiful mobile App that brings you inspiration and keeps you focus on what's most important. It is designed to provide inspiration, positivity and to help boost productivity and eliminate distraction with Pomodoro Timer, Todos and Notes, daily focus report, dynamic background picture, daily quote, mantra and plus customizable displays.
+
+![Finished App](https://github.com/lutang123/Flutter-MobileApp-Projects/iMomentum.gif)
 
 <p float="left">
   <img src="/iMomentum/1.png" width="120" />
