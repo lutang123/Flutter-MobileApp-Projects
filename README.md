@@ -10,17 +10,7 @@ All the code includes my own notes, also for some apps I removed API keys, you n
 
 This is my most recent project. iMomentum is a beautiful mobile App that brings you inspiration and keeps you focus on what's most important. It is designed to provide inspiration, positivity and to help boost productivity and eliminate distraction with Pomodoro Timer, Todos and Notes, daily focus report, dynamic background picture, daily quote, mantra and plus customizable displays.
 
-![Finished App](https://github.com/lutang123/Flutter-MobileApp-Projects/iMomentum.gif)
-
-<p float="left">
-  <img src="/iMomentum/1.png" width="120" />
-  <img src="/iMomentum/2.png" width="120" /> 
-  <img src="/iMomentum/3.png" width="120" />
-  <img src="/iMomentum/4.png" width="120" />
-  <img src="/iMomentum/todo.png" width="120" />
-  <img src="/iMomentum/piechart.png" width="120" />
-  <img src="/iMomentum/notes.png" width="120" />
-</p>
+![Finished App](https://github.com/lutang123/Flutter-MobileApp-Projects/blob/master/iMomentum.gif)
 
 ### Here is video introduction: 
 
