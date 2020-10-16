@@ -2,11 +2,25 @@
 
 This repository includes most of my sample Flutter App projects. 
 
-All the apps are beautifully made and fully functional. Each app is in a separate project(repository), with click to the specific project link. 
-
-The order of the list is based on comlexity level: first one as a starter project and the last one as more complicated one; each project covers different topic and skills on developing Flutter App. 
+All the apps are beautifully made and fully functional. Each app is in a separate repository, (click the project link to view the specific repository). 
 
 All the code includes my own notes, also for some apps I removed API keys, you need to add your own key to run the app successfully.
+
+## Flutter App 17: <a href="https://github.com/lutang123/iMomentum">iMomentum</a>
+
+This is my most recent project. iMomentum is a beautiful mobile App that brings you inspiration and keeps you focus on what's most important. It is designed to provide inspiration, positivity and to help boost productivity and eliminate distraction with Pomodoro Timer, Todos and Notes, daily focus report, dynamic background picture, daily quote, mantra and plus customizable displays.
+
+<p float="left">
+  <img src="/iMomentum/1.png" width="120" />
+  <img src="/iMomentum/2.png" width="120" /> 
+  <img src="/iMomentum/3.png" width="120" />
+  <img src="/iMomentum/4.png" width="120" />
+  <img src="/iMomentum/todo.png" width="120" />
+  <img src="/iMomentum/piechart.png" width="120" />
+  <img src="/iMomentum/notes.png" width="120" />
+</p>
+
+https://app.wideo.co/view/31065101602712330979?utm_source=CopyPaste&utm_medium=share&utm_campaign=sharebox
 
 ## Flutter App 1: (project link) <a href="https://github.com/lutang123/business_card_flutter">Business Card</a>
 
@@ -114,18 +128,7 @@ A flutter app that can take or select pictures and send accident report.
   <img src="/TimeTracker/timetracker6.png" width="120" />
 </p>
 
-## Flutter App 17: <a href="https://github.com/lutang123/iMomentum">iMomentum</a>
-A beautiful Flutter App with Calendar, Task list, Pomodoro Timer and Notes, all in one! The App is designed to provide inspiration, positivity and to help boost productivity and eliminate distraction with daily focus report, changing background picture, daily quote, mantra and customizable displays.
 
-<p float="left">
-  <img src="/iMomentum/1.png" width="120" />
-  <img src="/iMomentum/2.png" width="120" /> 
-  <img src="/iMomentum/3.png" width="120" />
-  <img src="/iMomentum/4.png" width="120" />
-  <img src="/iMomentum/todo.png" width="120" />
-  <img src="/iMomentum/piechart.png" width="120" />
-  <img src="/iMomentum/notes.png" width="120" />
-</p>
 
 
 
