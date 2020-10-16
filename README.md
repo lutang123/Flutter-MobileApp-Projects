@@ -8,14 +8,18 @@ All the code includes my own notes, also for some apps I removed API keys, you n
 
 ## Flutter App (ready for release): <a href="https://github.com/lutang123/iMomentum">iMomentum</a>
 
-This is my most recent project. iMomentum is a beautiful mobile App that brings you inspiration and keeps you focus on what's most important. It is designed to provide inspiration, positivity and to help boost productivity and eliminate distraction with Pomodoro Timer, Todos and Notes, daily focus report, dynamic background picture, daily quote, mantra and plus customizable displays.
+This is my most recent project. iMomentum is a beautiful mobile App that brings you inspiration and keeps you focus on what's most important. Uniquely designed with dynimatic photos as background, it aims to provide inspiration and positivity and to help boost productivity and eliminate distraction with multi-functions like Pomodoro Timer, Todos and Notes, daily focus report, daily quote, mantra, weather, plus customizable features to personalize user experience.
 
-![Finished App](https://github.com/lutang123/Flutter-MobileApp-Projects/blob/master/iMomentum.gif)
+Designed with both light theme and dark theme, available on both Android and iOS.
+
+This app uses firebase cloudstore and firebase authentication.
 
 ### Here is video introduction: 
 
 https://app.wideo.co/view/31065101602712330979?utm_source=CopyPaste&utm_medium=share&utm_campaign=sharebox
 
+
+![Finished App](https://github.com/lutang123/Flutter-MobileApp-Projects/blob/master/iMomentum.gif)
 
 
 ## The following are samples apps that I learnt from tutorials, not listed in App Store.
