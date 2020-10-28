@@ -1,12 +1,11 @@
-# Flutter-App-Projects (for code, please click on each project link)
+# All-Flutter-App-Projects 
+#### (This Repo is a summary of most of my Flutter projects for introduction and screenshots. For code, please click on each project link)
 
-This repository includes most of my sample Flutter App projects. 
+All the apps are beautifully made and fully functional. Each app is in a separate repository, click the project link to view the specific repository. 
 
-All the apps are beautifully made and fully functional. Each app is in a separate repository, (click the project link to view the specific repository). 
+All the code includes my own notes, also for some apps I removed API keys, you need to add your own key to run the app successfully, and for some app you need to register on firebase in ordert to run it.
 
-All the code includes my own notes, also for some apps I removed API keys, you need to add your own key to run the app successfully.
-
-## Flutter App (Latest): <a href="https://github.com/lutang123/iMomentum">iMomentum</a>
+## Flutter App (Production-ready): <a href="https://github.com/lutang123/iMomentum">iMomentum</a>
 
 This is my most recent project. iMomentum is a beautiful mobile App that brings you inspiration and keeps you focus on what's most important. Uniquely designed with dynamic photos as background, it aims to provide inspiration and positivity and to help boost productivity and eliminate distraction with multi-functions like Pomodoro Timer, Todos and Notes, daily focus report, daily quote, mantra, weather, plus customizable features to personalize user experience.
 
