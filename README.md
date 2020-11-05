@@ -13,9 +13,13 @@ Designed with both light theme and dark theme, available on both Android and iOS
 
 This app uses firebase cloudstore and firebase authentication.
 
-### For iPhone, download from the App Store: https://apps.apple.com/app/id1537692519
+### For iPhone, download from the App Store: 
 
-### For Android phone, download from google plae: https://play.google.com/store/apps/details?id=com.lu.momentum
+### https://apps.apple.com/app/id1537692519
+
+### For Android phone, download from google play: 
+
+### https://play.google.com/store/apps/details?id=com.lu.momentum
 
 #### Here is video introduction: 
 
