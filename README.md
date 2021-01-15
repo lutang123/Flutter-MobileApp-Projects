@@ -1,27 +1,34 @@
 # All-Flutter-App-Projects 
-#### (This Repo is a summary of most of my Flutter projects for introduction and screenshots. For code, please click on each project link)
+### This Repo is a summary of most of my Flutter projects with screenshots, description and links for specific repo. (For code, please click on each project link)
 
 All the apps are beautifully made and fully functional. Each app is in a separate repository, click the project link to view the specific repository. 
 
-All the code includes my own notes, also for some apps I removed API keys, you need to add your own key to run the app successfully, and for some app you need to register on firebase in ordert to run it.
+Most code includes my own notes, and for some apps, you need to add your own API keys to run the apps successfully, and for some apps you need to register on Firebase in ordert to run it.
 
-## Flutter App (Available on Google Play and App Store): <a href="https://github.com/lutang123/iMomentum">iMomentum Productivity App</a>
+## 1. My published Flutter App (Available on Google Play and App Store): <a href="https://github.com/lutang123/iMomentum">iMomentum Productivity App</a>
 
-This is my most recent project. iMomentum is a beautiful mobile App that brings you inspiration and keeps you focus on what's most important. Uniquely designed with dynamic photos as background, it aims to provide inspiration and positivity and to help boost productivity and eliminate distraction with multi-functions like Pomodoro Timer, Todos and Notes, daily focus report, daily quote, mantra, weather, plus customizable features to personalize user experience.
+This is my most recent personal project, designed and developed all by myself. iMomentum is a beautiful mobile App that brings you inspiration and keeps you focus on what's most important. Uniquely designed with dynamic photos as background, it aims to provide inspiration and positivity and to boost productivity and eliminate distraction with multi-functions like Pomodoro Timer, Todos and Notes, daily focus report, daily quote, mantra, weather, plus customizable features to personalize user experience.
 
-Designed with both light theme and dark theme, available on both Android and iOS.
+Main features including but not limited to:
+1. Swipable landing page
+2. Full sign in flow with firebase authentication.
+3. Interacting with Restful APIs.
+4. Backend with firebase and database uses NoSQL with cloudstore.
+5. Notification for reminder feature.
+6. Uploading photos with firebase storage.
+7. Settings for user to change preference
+8. Balance mode to automatically display dynamic home screen based on user's prefered schedule
+9. Designed with both light theme and dark theme, available on both Android and iOS.
 
-This app uses firebase cloudstore and firebase authentication.
-
-### For iPhone, download from the App Store: 
+#### For iPhone, download from the App Store: 
  
 [<img src="screenshots/app-store-logo.png" width="300" >](https://apps.apple.com/app/id1537692519)
 
-### For Android phone, download from google play: 
+#### For Android phone, download from google play: 
 
 [<img src="screenshots/play-store-logo.png" width="300" >](https://play.google.com/store/apps/details?id=com.lu.momentum)
 
-#### Here is video introduction: 
+##### Here is video introduction: 
 
 https://app.wideo.co/view/31065101602712330979?utm_source=CopyPaste&utm_medium=share&utm_campaign=sharebox
 
@@ -30,65 +37,86 @@ https://app.wideo.co/view/31065101602712330979?utm_source=CopyPaste&utm_medium=s
 ### Sign In
 
 <p float="left">
-  <img src="/screenshots/landing_and_signin/landing1.png" width="100" />
-  <img src="/screenshots/landing_and_signin/landing2.png" width="100" />
-  <img src="/screenshots/landing_and_signin/landing3.png" width="100" />
-  <img src="/screenshots/landing_and_signin/landing4.png" width="100" />
-  <img src="/screenshots/landing_and_signin/landing5.png" width="100" />
-  <img src="/screenshots/landing_and_signin/signup1.png" width="100" />
-   <img src="/screenshots/landing_and_signin/signup2.png" width="100" />
-  <img src="/screenshots/landing_and_signin/signup3.png" width="100" />
+  <img src="/screenshots/landing_and_signin/landing1.png" width="120" />
+  <img src="/screenshots/landing_and_signin/landing2.png" width="120" />
+  <img src="/screenshots/landing_and_signin/landing3.png" width="120" />
+  <img src="/screenshots/landing_and_signin/landing4.png" width="120" />
+  <img src="/screenshots/landing_and_signin/landing5.png" width="120" />
+  <img src="/screenshots/landing_and_signin/signup1.png" width="120" />
+   <img src="/screenshots/landing_and_signin/signup2.png" width="120" />
+  <img src="/screenshots/landing_and_signin/signup3.png" width="120" />
 </p>
 
 ### Home screen
 
 <p float="left">
-  <img src="/screenshots/Home/1.png" width="100" />
-  <img src="/screenshots/Home/2.png" width="100" />
-  <img src="/screenshots/Home/3.png" width="100" />
-  <img src="/screenshots/Home/4.png" width="100" />
-  <img src="/screenshots/Home/6.png" width="100" />
-  <img src="/screenshots/Home/9.png" width="100" />
-  <img src="/screenshots/Home/12.png" width="100" />
-  <img src="/screenshots/Home/weather_light.png" width="100" />
+  <img src="/screenshots/Home/1.png" width="120" />
+  <img src="/screenshots/Home/2.png" width="120" />
+  <img src="/screenshots/Home/3.png" width="120" />
+  <img src="/screenshots/Home/4.png" width="120" />
+  <img src="/screenshots/Home/6.png" width="120" />
+  <img src="/screenshots/Home/9.png" width="120" />
+  <img src="/screenshots/Home/12.png" width="120" />
+  <img src="/screenshots/Home/weather_light.png" width="120" />
 </p>
 
 ### Todo screen
 
 <p float="left">
-  <img src="/screenshots/Todo/1.png" width="100" />
-  <img src="/screenshots/Todo/2.png" width="100" />
-  <img src="/screenshots/Todo/3.png" width="100" />
-  <img src="/screenshots/Todo/6.png" width="100" />
-  <img src="/screenshots/Todo/7.png" width="100" />
-  <img src="/screenshots/Todo/8.png" width="100" />
+  <img src="/screenshots/Todo/1.png" width="120" />
+  <img src="/screenshots/Todo/2.png" width="120" />
+  <img src="/screenshots/Todo/3.png" width="120" />
+  <img src="/screenshots/Todo/6.png" width="120" />
+  <img src="/screenshots/Todo/7.png" width="120" />
+  <img src="/screenshots/Todo/8.png" width="120" />
 </p>
 
 ### Notes screen
 
 <p float="left">
-  <img src="/screenshots/Notes/light1.png" width="100" />
-  <img src="/screenshots/Notes/light2.png" width="100" />
-  <img src="/screenshots/Notes/light3.png" width="100" />
-  <img src="/screenshots/Notes/light4.png" width="100" />
-  <img src="/screenshots/Notes/light5.png" width="100" />
-  <img src="/screenshots/Notes/light6.png" width="100" />  
+  <img src="/screenshots/Notes/light1.png" width="120" />
+  <img src="/screenshots/Notes/light2.png" width="120" />
+  <img src="/screenshots/Notes/light3.png" width="120" />
+  <img src="/screenshots/Notes/light4.png" width="120" />
+  <img src="/screenshots/Notes/light5.png" width="120" />
+  <img src="/screenshots/Notes/light6.png" width="120" />  
 </p>
 
 ### Settings and Customization
 
 <p float="left">
-  <img src="/screenshots/settings/1.png" width="100" />
-  <img src="/screenshots/settings/2.png" width="100" />
-  <img src="/screenshots/settings/3.png" width="100" />
-  <img src="/screenshots/settings/4.png" width="100" />
-  <img src="/screenshots/settings/6.png" width="100" />
-  <img src="/screenshots/settings/8.png" width="100" />
-  <img src="/screenshots/settings/9.png" width="100" />
+  <img src="/screenshots/settings/1.png" width="120" />
+  <img src="/screenshots/settings/2.png" width="120" />
+  <img src="/screenshots/settings/3.png" width="120" />
+  <img src="/screenshots/settings/4.png" width="120" />
+  <img src="/screenshots/settings/6.png" width="120" />
+  <img src="/screenshots/settings/8.png" width="120" />
+  <img src="/screenshots/settings/9.png" width="120" />
 </p>
 
 
-## The following are samples apps that I learnt from tutorials, not listed in App Store.
+## 2. My Flutter App for Konnections: <a href="https://github.com/lutang123/konnections">Konnections</a>
+
+A Flutter Contact App. This App retrieves all the contacts from default phone book after user given permission, and then sync the contact data with Firebase. User can add, update or delete contact; user can also call, send message or send email directly from this App.
+### Here is some screenshots. 
+
+<p float="left">
+  <img src="/konnections/screenshots/signIn_1.png" width="100" />
+  <img src="/konnections/screenshots/signIn_2.png" width="100" />
+  <img src="/konnections/screenshots/signIn_3.png" width="100" />
+  <img src="/konnections/screenshots/permission.png" width="100" />
+  <img src="/konnections/screenshots/home_screen.png" width="100" />
+  <img src="/konnections/screenshots/contact_detail.png" width="100" />
+  <img src="/konnections/screenshots/add_new.png" width="100" />
+  <img src="/konnections/screenshots/search_contact.png" width="100" />
+  <img src="/konnections/screenshots/settings.png" width="100" />
+  <img src="/konnections/screenshots/user_account.png" width="100" />
+  <img src="/konnections/screenshots/logout.png" width="100" />
+  <img src="/konnections/screenshots/dark_theme_home_ui.png" width="100" />
+</p>
+
+
+## The following are samples apps that I built be learning from tutorials, not listed in App Store.
 
 ## Flutter App 1: (project link) <a href="https://github.com/lutang123/business_card_flutter">Business Card</a>
 
