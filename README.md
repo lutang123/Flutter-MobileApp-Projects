@@ -37,7 +37,7 @@ https://app.wideo.co/view/31065101602712330979?utm_source=CopyPaste&utm_medium=s
 
 #### Here is some screenshots for light theme only (but dart theme is even better!). 
 
-### Sign In
+### Landing and Sign In
 
 <p float="left">
   <img src="/screenshots/landing_and_signin/landing1.png" width="120" />
