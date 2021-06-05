@@ -47,7 +47,7 @@ https://app.wideo.co/view/31065101602712330979?utm_source=CopyPaste&utm_medium=s
   <img src="/screenshots/landing_and_signin/landing5.png" width="120" />
   <img src="/screenshots/landing_and_signin/signup1.png" width="120" />
   <img src="/screenshots/landing_and_signin/signup2.png" width="120" />
-  <img src="/screenshots/landing_and_signin/signup3png.png" width="150" />
+  <img src="/screenshots/landing_and_signin/signup3png.png" width="120" />
 </p>
 
 ### Home screen
