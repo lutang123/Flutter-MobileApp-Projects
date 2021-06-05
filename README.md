@@ -37,7 +37,7 @@ https://app.wideo.co/view/31065101602712330979?utm_source=CopyPaste&utm_medium=s
 
 #### Here is some screenshots for light theme only (but dart theme is even better!). 
 
-### Landing and Sign In
+### Landing and Sign In (Liquid Swipe and Animation)
 
 <p float="left">
   <img src="/screenshots/landing_and_signin/landing1.png" width="120" />
@@ -50,7 +50,7 @@ https://app.wideo.co/view/31065101602712330979?utm_source=CopyPaste&utm_medium=s
   <img src="/screenshots/landing_and_signin/signup3png.png" width="120" />
 </p>
 
-### Home screen (photo can dynamically changes or set fixed photo based on user preference)
+### Home screen (Weather forecast, quotes, mantra, focus-todo and pomodor timer all in one page with dynamic display; photo can programmatically changes or set fixed photo based on user preference)
 
 <p float="left">
   <img src="/screenshots/Home/1.png" width="120" />
@@ -63,7 +63,7 @@ https://app.wideo.co/view/31065101602712330979?utm_source=CopyPaste&utm_medium=s
   <img src="/screenshots/Home/weather_light.png" width="120" />
 </p>
 
-### Todo screen
+### Todo screen (todos with calendars, different categories and set reminder features; And a daily animited pie chart to show focus time report)
 
 <p float="left">
   <img src="/screenshots/Todo/1.png" width="120" />
@@ -74,7 +74,7 @@ https://app.wideo.co/view/31065101602712330979?utm_source=CopyPaste&utm_medium=s
   <img src="/screenshots/Todo/8.png" width="120" />
 </p>
 
-### Notes screen
+### Notes screen (not just add a note, user can organize notes with different folders and customize notes look by change color, font style or pin a note)
 
 <p float="left">
   <img src="/screenshots/Notes/light1.png" width="120" />
@@ -85,7 +85,7 @@ https://app.wideo.co/view/31065101602712330979?utm_source=CopyPaste&utm_medium=s
   <img src="/screenshots/Notes/light6.png" width="120" />  
 </p>
 
-### Settings and Customization
+### Settings and Customization (amazing customizations, plus a photo gallary that includes thousands of photos)
 
 <p float="left">
   <img src="/screenshots/settings/1.png" width="120" />
