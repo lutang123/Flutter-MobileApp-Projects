@@ -5,7 +5,7 @@ All the apps are beautifully made and fully functional. Each app is in a separat
 
 Most code includes my own notes, and for some apps, you need to add your own API keys to run the apps successfully, and for some apps you need to register on Firebase in ordert to run it.
 
-## 1. My published Flutter App (Available on Google Play and App Store): <a href="https://github.com/lutang123/iMomentum">iMomentum Productivity App</a>
+## 1. My published Flutter App (Available on Google Play and App Store): <a href="https://github.com/lutang123/iMomentum">iMomentum Productivity App (currently in my private repo)</a>
 
 This is my most recent personal project, designed and developed all by myself. iMomentum is a beautiful mobile App that brings you inspiration and keeps you focus on what's most important. Uniquely designed with dynamic photos as background, it aims to provide inspiration and positivity and to boost productivity and eliminate distraction with multi-functions like Pomodoro Timer, Todos and Notes, daily focus report, daily quote, mantra, weather, plus customizable features to personalize user experience.
 
@@ -46,8 +46,8 @@ https://app.wideo.co/view/31065101602712330979?utm_source=CopyPaste&utm_medium=s
   <img src="/screenshots/landing_and_signin/landing4.png" width="120" />
   <img src="/screenshots/landing_and_signin/landing5.png" width="120" />
   <img src="/screenshots/landing_and_signin/signup1.png" width="120" />
-   <img src="/screenshots/landing_and_signin/signup2.png" width="120" />
-  <img src="/screenshots/landing_and_signin/signup3.png" width="120" />
+  <img src="/screenshots/landing_and_signin/signup2.png" width="120" />
+  <img src="/screenshots/landing_and_signin/signup3png.png" width="150" />
 </p>
 
 ### Home screen
