@@ -10,15 +10,18 @@ Most code includes my own notes, and for some apps, you need to add your own API
 This is my most recent personal project, designed and developed all by myself. iMomentum is a beautiful mobile App that brings you inspiration and keeps you focus on what's most important. Uniquely designed with dynamic photos as background, it aims to provide inspiration and positivity and to boost productivity and eliminate distraction with multi-functions like Pomodoro Timer, Todos and Notes, daily focus report, daily quote, mantra, weather, plus customizable features to personalize user experience.
 
 Main features including but not limited to:
-1. Swipable landing page
+1. Swipable landing page with Animation
 2. Full sign in flow with firebase authentication.
-3. Interacting with Restful APIs.
-4. Backend with firebase and database uses NoSQL with cloudstore.
-5. Notification for reminder feature.
-6. Uploading photos with firebase storage.
-7. Settings for user to change preference
-8. Balance mode to automatically display dynamic home screen based on user's prefered schedule
-9. Designed with both light theme and dark theme, available on both Android and iOS.
+3. Get data from several Restful APIs (photo data, whether data, quote data).
+4. Backend with firebase with cloudstore in a NoSQL structure.
+5. Dynamic screen display with unique design for every page.
+6. Stream data with immediate screen unpdate.
+7. Notification for reminder feature.
+8. Uploading photos with firebase storage.
+9. Settings for user to change preferences with shared preference.
+10. Balance mode to automatically display dynamic home screen based on user's prefered schedule
+11. Designed with both light theme and dark theme, available on both Android and iOS.
+12. And a lot more features and details!
 
 #### For iPhone, download from the App Store: 
  
@@ -32,7 +35,7 @@ Main features including but not limited to:
 
 https://app.wideo.co/view/31065101602712330979?utm_source=CopyPaste&utm_medium=share&utm_campaign=sharebox
 
-#### Here is some screenshots for light theme. 
+#### Here is some screenshots for light theme only (but dart theme is even better!). 
 
 ### Sign In
 
