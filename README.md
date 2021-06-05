@@ -50,7 +50,7 @@ https://app.wideo.co/view/31065101602712330979?utm_source=CopyPaste&utm_medium=s
   <img src="/screenshots/landing_and_signin/signup3png.png" width="120" />
 </p>
 
-### Home screen
+### Home screen (photo can dynamically changes or set fixed photo based on user preference)
 
 <p float="left">
   <img src="/screenshots/Home/1.png" width="120" />
